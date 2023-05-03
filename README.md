@@ -1,4 +1,4 @@
-### Jackson Schuetzle
+### <h1>Jackson Schuetzle</h1>
 <h3> About </h3>
 
 My name is Jackson Schuetzle and I'm currently pursuing a masters degree for 2026 at Case Western Reserve University. I'm concentrating on software engineering and will have a minor in math. 
